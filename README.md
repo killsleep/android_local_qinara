@@ -1,7 +1,7 @@
 android_local_qinara
 ======================
 
-Local Manifest for Motorola Qinara devices
+Local Manifest for Motorola Atrix HD devices
 
 Getting Started
 ---------------
