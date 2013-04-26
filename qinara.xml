@@ -3,7 +3,7 @@
   <remote fetch="git://github.com/" name="gh" />
 
   <project name="UISS-Dev-Team/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="gh" revision="cm-10.1" />
-  <project name="UISS-Dev-Team/android_device_motorola_qinara" path="device/motorola/mb886" remote="gh" revision="cm-10.1" />
-  <project name="UISS-Dev-Team/android_vendor_motorola_qinara" path="vendor/motorola/mb886" remote="gh" revision="cm-10.1" />
+  <project name="UISS-Dev-Team/android_device_motorola_qinara" path="device/motorola/qinara" remote="gh" revision="cm-10.1" />
+  <project name="UISS-Dev-Team/android_vendor_motorola_qinara" path="vendor/motorola/qinara" remote="gh" revision="cm-10.1" />
   <project name="UISS-Dev-Team/android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="gh" revision="cm-10.1" />
 </manifest>
