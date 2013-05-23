@@ -4,6 +4,5 @@
 
   <project name="killsleep/android_device_pantech_msm8960-common" path="device/pantech/msm8960-common" remote="gh" revision="cm-10.1" />
   <project name="killsleep/android_device_pantech_ef44s" path="device/pantech/ef44s" remote="gh" revision="cm-10.1" />
-  <project name="killsleep/android_vendor_pantech_ef44s" path="vendor/pantech/ef44s" remote="gh" revision="cm-10.1" />
   <project name="killsleep/android_kernel_pantech_msm8960-common" path="kernel/pantech/msm8960-common" remote="gh" revision="cm-10.1" />
 </manifest>
