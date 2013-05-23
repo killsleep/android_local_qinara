@@ -19,7 +19,7 @@ To initialize your local repository using the Cyanogemod manifest, use commands 
 
     repo init -u git://github.com/CyanogenMod/android.git -b cm-10.1
 
-    curl -L -o .repo/local_manifests/pantech.xml -O -L https://raw.github.com/killsleep/android_local_ef44s/master/ef44s.xml
+    curl -L -o .repo/local_manifests/ef44s.xml -O -L https://raw.github.com/killsleep/android_local_ef44s/master/ef44s.xml
  
     	( or Download: https://github.com/killsleep/android_local_ef44s/blob/master/ef44s.xml
 		and place it in ~/Android/.repo/local_manifest.xml (or ~/'name you chose'/.repo)
